@@ -23,7 +23,31 @@ bash run.sh
 
 ## Main Files
 
-* [main.py](https://www.google.com/search?q=main.py) — the main training/evaluation pipeline
-* [precompute_neighborhood.py](https://www.google.com/search?q=precompute_neighborhood.py) — generates the neighborhood JSON file
-* [run.sh](run.sh) — setup and run script
-* [llm_neighborhoods.json](https://www.google.com/search?q=llm_neighborhoods.json) — cached coarse/fine class neighborhoods
+* `main.py` — the main training/evaluation pipeline
+* `precompute_neighborhood.py`— generates the neighborhood JSON file
+* `run.sh` — setup and run script
+* `llm_neighborhoods.json` — cached coarse/fine class neighborhoods
+
+## Assumptions and Limitations
+
+This implementation is based on the information available in the LiteEmbed paper and several implementation details had to be inferred. The following assumptions were made:
+
+### Assumptions
+
+1. **Loss Weights**
+   - λ₁ (Coarse Loss) = 0.5
+   - λ₂ (Fine Loss) = 0.5
+
+2. **Fine-Grained Pruning**
+   - Candidate fine classes are selected using a hard cosine similarity threshold of **0.7** against image embeddings.
+   - If no candidates remain after thresholding, a **Top-5 fallback** strategy is used.
+
+3. **PCA Subspace Split**
+   - `k = 2`
+   - `U_coarse` is defined as the first principal component (PC1).
+   - `U_fine` spans the remaining principal components (PC2 ... PC_D).
+
+### Current Limitations
+
+- The implementation currently reproduces strong results only on a **6-class subset** of the Indian Food Images dataset.
+- While the reported behavior of LiteEmbed can be observed on small-scale experiments, the current implementation **does not scale effectively to the full dataset**.
