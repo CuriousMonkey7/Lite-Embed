@@ -1,0 +1,1686 @@
+{
+    "adhirasam": {
+        "C": [
+            "Indian food",
+            "dish",
+            "dessert",
+            "sweet",
+            "snack"
+        ],
+        "F": [
+            "jalebi",
+            "gulab jamun",
+            "rabri",
+            "peda",
+            "barfi",
+            "kheer",
+            "namkeen",
+            "ladoo",
+            "mawa kachori",
+            "rasgulla"
+        ]
+    },
+    "aloo_gobi": {
+        "C": [
+            "Indian food",
+            "vegetable dish",
+            "curry",
+            "side dish",
+            "North Indian cuisine"
+        ],
+        "F": [
+            "palak paneer",
+            "chana masala",
+            "baingan bharta",
+            "matar paneer",
+            "palak paratha",
+            "gajar ka halwa",
+            "rajma chawal",
+            "methi makhani",
+            "chicken tikka",
+            "seekh kebab"
+        ]
+    },
+    "aloo_matar": {
+        "C": [
+            "Indian food",
+            "vegetable dish",
+            "lentil dish",
+            "side dish",
+            "curry"
+        ],
+        "F": [
+            "palak paneer",
+            "chana masala",
+            "gobi masala",
+            "palak paratha",
+            "chana chaat",
+            "baingan bharta",
+            "saag roti",
+            "methi makhani",
+            "dal tadka",
+            "palak paneer"
+        ]
+    },
+    "aloo_methi": {
+        "C": [
+            "Indian food",
+            "vegetable dish",
+            "curry",
+            "side dish",
+            "lentil dish"
+        ],
+        "F": [
+            "palak paneer",
+            "chana masala",
+            "gobi mausaman",
+            "saag aloo",
+            "palak paratha",
+            "matar paneer",
+            "sagh paneer",
+            "baingan bharta",
+            "dal makhani",
+            "palak paneer"
+        ]
+    },
+    "aloo_shimla_mirch": {
+        "C": [
+            "Indian food",
+            "vegetable dish",
+            "side dish",
+            "potato dish",
+            "mixed vegetable dish"
+        ],
+        "F": [
+            "palak paneer",
+            "chana masala",
+            "palak paratha",
+            "gobi aloo",
+            "chhole bhature",
+            "methi aloo",
+            "palak aloo",
+            "palak soup",
+            "palak pakora",
+            "palak rice"
+        ]
+    },
+    "aloo_tikki": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "vegetarian"
+        ],
+        "F": [
+            "samosa",
+            "chana chaat",
+            "bhel puri",
+            "pakoda",
+            "masala dosa",
+            "vada",
+            "kachori",
+            "chaat",
+            "samosa",
+            "paratha"
+        ]
+    },
+    "anarsa": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "kachori",
+            "samosa",
+            "pakora",
+            "vada",
+            "namkeen",
+            "bhel",
+            "chaat",
+            "pani puri",
+            "chana chaat",
+            "golgappa"
+        ]
+    },
+    "ariselu": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "dosa",
+            "idli",
+            "vada",
+            "samosa",
+            "poori",
+            "chana masala",
+            "dal fry",
+            "rasgulla",
+            "jalebi",
+            "upma"
+        ]
+    },
+    "bandar_laddu": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "snack",
+            "candy"
+        ],
+        "F": [
+            "jalebi",
+            "gulab jamun",
+            "barfi",
+            "rasgulla",
+            "peda",
+            "kheer",
+            "namkeen",
+            "jujub",
+            "halwa",
+            "ladoo"
+        ]
+    },
+    "basundi": {
+        "C": [
+            "Indian dessert",
+            "sweet",
+            "milk-based",
+            "creamy",
+            "spiced",
+            "traditional"
+        ],
+        "F": [
+            "kheer",
+            "rabri",
+            "payasam",
+            "falooda",
+            "kulfi",
+            "sandesh",
+            "laddu",
+            "rasgulla",
+            "gulab jamun",
+            "jalebi"
+        ]
+    },
+    "bhatura": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "naan",
+            "paratha",
+            "samosa",
+            "kulcha",
+            "puri",
+            "chole",
+            "dal",
+            "roti",
+            "vada",
+            "chaat"
+        ]
+    },
+    "bhindi_masala": {
+        "C": [
+            "Indian food",
+            "vegetable dish",
+            "curry",
+            "side dish",
+            "stir fry"
+        ],
+        "F": [
+            "chokha",
+            "palak paneer",
+            "chana masala",
+            "methi makhani",
+            "aloo gobi",
+            "saghara",
+            "baingan bharta",
+            "channa masala",
+            "dal tadka",
+            "palak paneer"
+        ]
+    },
+    "biryani": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "chicken_biryani",
+            "mutton_biryani",
+            "veg_biryani",
+            "pulao",
+            "fried_rice",
+            "naan",
+            "samosa",
+            "kheer",
+            "palak_paneer",
+            "chana_masala"
+        ]
+    },
+    "boondi": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "snack",
+            "appetizer"
+        ],
+        "F": [
+            "jalebi",
+            "gulab jamun",
+            "rabri",
+            "peda",
+            "barfi",
+            "laddu",
+            "kheer",
+            "namkeen",
+            "petha",
+            "sev"
+        ]
+    },
+    "butter_chicken": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "tandoori",
+            "kebab",
+            "curry",
+            "naan",
+            "dal",
+            "roti",
+            "biryani",
+            "samosa",
+            "chana masala",
+            "palak"
+        ]
+    },
+    "chak_hao_kheer": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "pudding",
+            "rice dish"
+        ],
+        "F": [
+            "kheer",
+            "payasam",
+            "rabri",
+            "payesh",
+            "shrikhand",
+            "gulab jamun",
+            "rasgulla",
+            "jalebi",
+            "halwa",
+            "laddu"
+        ]
+    },
+    "cham_cham": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "snack"
+        ],
+        "F": [
+            "chaat",
+            "samosa",
+            "vada",
+            "pakora",
+            "kachori",
+            "chaat platter",
+            "sev puri",
+            "bhel puri",
+            "pani puri",
+            "chole bhature"
+        ]
+    },
+    "chana_masala": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "lentil",
+            "curry",
+            "vegetable",
+            "chickpea",
+            "tomato",
+            "onion",
+            "spices",
+            "dal",
+            "tandoori",
+            "naan",
+            "samosa"
+        ]
+    },
+    "chapati": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "naan",
+            "paratha",
+            "roti",
+            "poori",
+            "vada",
+            "samosa",
+            "dal",
+            "dal tadka",
+            "rajma",
+            "chana masala"
+        ]
+    },
+    "chhena_kheeri": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "milk-based",
+            "pudding"
+        ],
+        "F": [
+            "kheer",
+            "rabri",
+            "payasam",
+            "kulfi",
+            "rabri",
+            "rasgulla",
+            "sandesh",
+            "gulab jamun",
+            "jalebi",
+            "laddu"
+        ]
+    },
+    "chicken_razala": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "chicken tikka",
+            "butter chicken",
+            "murgh makhani",
+            "tandoori chicken",
+            "seekh kebab",
+            "palak paneer",
+            "chicken curry",
+            "naan",
+            "paratha",
+            "chana masala"
+        ]
+    },
+    "chicken_tikka": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "chicken curry",
+            "kebab",
+            "biryani",
+            "tandoori chicken",
+            "lamb seekh kebab",
+            "chicken manchurian",
+            "chicken korma",
+            "chicken biryani",
+            "chicken biryani",
+            "chicken makhani",
+            "chicken vindaloo"
+        ]
+    },
+    "chicken_tikka_masala": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "chicken curry",
+            "tandoori chicken",
+            "butter chicken",
+            "palak paneer",
+            "chana masala",
+            "mutton curry",
+            "saag paneer",
+            "chicken biryani",
+            "lamb vindaloo",
+            "chicken korma"
+        ]
+    },
+    "chikki": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "snack",
+            "confectionery"
+        ],
+        "F": [
+            "jalebi",
+            "barfi",
+            "laddu",
+            "rabdi",
+            "namkeen",
+            "halwa",
+            "jalebi",
+            "peda",
+            "rasgulla",
+            "gulab jamun"
+        ]
+    },
+    "daal_baati_churma": {
+        "C": [
+            "Indian food",
+            "meal",
+            "cuisine",
+            "staple",
+            "dessert"
+        ],
+        "F": [
+            "lentil soup",
+            "flatbread",
+            "sweet porridge",
+            "thali",
+            "rajma",
+            "paratha",
+            "gajar ka halwa",
+            "samosa",
+            "kachori",
+            "kulfi"
+        ]
+    },
+    "daal_puri": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "dal",
+            "bread",
+            "snack",
+            "street food",
+            "savory",
+            "wheat-based",
+            "flatbread",
+            "lentil soup",
+            "chaat",
+            "vada"
+        ]
+    },
+    "dal_makhani": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "lentil",
+            "curry",
+            "sauce",
+            "gravy",
+            "kidney-bean",
+            "black-bean",
+            "chickpea",
+            "masala",
+            "tamarind",
+            "butter-sauce"
+        ]
+    },
+    "dal_tadka": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "lentil soup",
+            "chana masala",
+            "sambar",
+            "rajma",
+            "palak paneer",
+            "gobi matar",
+            "dal makhani",
+            "paratha",
+            "vada pav",
+            "chhole"
+        ]
+    },
+    "dharwad_pedha": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "confectionery",
+            "candy"
+        ],
+        "F": [
+            "jalebi",
+            "gulab jamun",
+            "rasgulla",
+            "barfi",
+            "laddu",
+            "kheer",
+            "pedha",
+            "moong dal pedha",
+            "rabri",
+            "jaggery"
+        ]
+    },
+    "doodhpak": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "milk-based",
+            "pudding"
+        ],
+        "F": [
+            "kheer",
+            "rabri",
+            "payasam",
+            "kulfi",
+            "rasgulla",
+            "halwa",
+            "shrikhand",
+            "badam peda",
+            "gulab jamun",
+            "jalebi"
+        ]
+    },
+    "double_ka_meetha": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "pastry",
+            "snack"
+        ],
+        "F": [
+            "jalebi",
+            "gulab jamun",
+            "rabri",
+            "kheer",
+            "barfi",
+            "jalebi",
+            "ladoo",
+            "halwa",
+            "peda",
+            "namkeen"
+        ]
+    },
+    "dum_aloo": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "biryani",
+            "palak paneer",
+            "chana masala",
+            "dal makhani",
+            "samosa",
+            "chicken tikka",
+            "paratha",
+            "gobi manchurian",
+            "seekh kebab",
+            "naan"
+        ]
+    },
+    "gajar_ka_halwa": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "pudding",
+            "confectionery"
+        ],
+        "F": [
+            "kheer",
+            "rabri",
+            "jalebi",
+            "gulab jamun",
+            "ras malai",
+            "peda",
+            "barfi",
+            "rabri",
+            "kulfi",
+            "laddu"
+        ]
+    },
+    "gavvalu": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "biryani",
+            "dal",
+            "curry",
+            "rice",
+            "samosa",
+            "chana masala",
+            "paratha",
+            "vada",
+            "pakoda",
+            "chaat"
+        ]
+    },
+    "ghevar": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "pastry",
+            "snack"
+        ],
+        "F": [
+            "jalebi",
+            "barfi",
+            "rabri",
+            "kheer",
+            "kulfi",
+            "laddu",
+            "namkeen",
+            "sheera",
+            "halwa",
+            "gulab jamun"
+        ]
+    },
+    "gulab_jamun": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "snack",
+            "treat"
+        ],
+        "F": [
+            "jalebi",
+            "rasgulla",
+            "barfi",
+            "kheer",
+            "gulab jalebi",
+            "rabri",
+            "peda",
+            "laddu",
+            "namkeen",
+            "chivda"
+        ]
+    },
+    "imarti": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "snack"
+        ],
+        "F": [
+            "kachori",
+            "samosa",
+            "mathri",
+            "namak pare",
+            "jalebi",
+            "barfi",
+            "gajar ka halwa",
+            "rava ladoo",
+            "namak pare",
+            "petha"
+        ]
+    },
+    "jalebi": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "snack",
+            "festival"
+        ],
+        "F": [
+            "kheer",
+            "gulab jamun",
+            "rabri",
+            "barfi",
+            "laddu",
+            "rasgulla",
+            "peda",
+            "namak pare",
+            "singhare ka halwa",
+            "jilapi"
+        ]
+    },
+    "kachori": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "snack"
+        ],
+        "F": [
+            "samosa",
+            "paratha",
+            "vada",
+            "poori",
+            "chaat",
+            "bhaji",
+            "namkeen",
+            "pakora",
+            "sev",
+            "kulcha"
+        ]
+    },
+    "kadai_paneer": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "kadhai paneer",
+            "palak paneer",
+            "chana masala",
+            "butter chicken",
+            "mughlai curry",
+            "tandoori chicken",
+            "saag paneer",
+            "chicken tikka masala",
+            "dal tadka",
+            "naan"
+        ]
+    },
+    "kadhi_pakoda": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "kadi",
+            "sambar",
+            "rasam",
+            "chana masala",
+            "vada",
+            "chutney",
+            "papadum",
+            "paratha",
+            "dal fry",
+            "chaat"
+        ]
+    },
+    "kajjikaya": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "lentil",
+            "dal",
+            "curry",
+            "vegetable",
+            "snack",
+            "soup",
+            "sambar",
+            "chutney",
+            "pickle",
+            "rava"
+        ]
+    },
+    "kakinada_khaja": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "pastry",
+            "snack",
+            "sweet"
+        ],
+        "F": [
+            "karjir lahpet",
+            "mawa kachori",
+            "jalebi",
+            "gulab jamun",
+            "barfi",
+            "rabri",
+            "namak pare",
+            "rava laddu",
+            "petha",
+            "upama"
+        ]
+    },
+    "kalakand": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "cheese",
+            "milk product"
+        ],
+        "F": [
+            "ladoo",
+            "barfi",
+            "rabri",
+            "kulfi",
+            "chhena puri",
+            "rasgulla",
+            "gulab jamun",
+            "kheer",
+            "payasam",
+            "shrikhand"
+        ]
+    },
+    "karela_bharta": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "vegetable preparation"
+        ],
+        "F": [
+            "palak paneer",
+            "chana masala",
+            "gobi maasala",
+            "baingan bharta",
+            "saag paneer",
+            "methi makhani",
+            "palak bharta",
+            "aloo gobi",
+            "channa chaat",
+            "samosa",
+            "dal tadka"
+        ]
+    },
+    "kofta": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "vegetarian"
+        ],
+        "F": [
+            "chana",
+            "samosa",
+            "bhaji",
+            "dal",
+            "palak",
+            "paneer",
+            "paratha",
+            "biryani",
+            "dal",
+            "sabzi"
+        ]
+    },
+    "kuzhi_paniyaram": {
+        "C": [
+            "Indian food",
+            "dish",
+            "snack",
+            "breakfast",
+            "appetizer"
+        ],
+        "F": [
+            "dosa",
+            "idli",
+            "vada",
+            "samosa",
+            "poori",
+            "uttapam",
+            "chila",
+            "kothu parotta",
+            "jalebi",
+            "upama"
+        ]
+    },
+    "lassi": {
+        "C": [
+            "Indian food",
+            "drink",
+            "yogurt-based beverage",
+            "refreshing drink",
+            "dessert"
+        ],
+        "F": [
+            "pannaka",
+            "thandai",
+            "buttermilk",
+            "falooda",
+            "jaljeera",
+            "lassi (sweet)",
+            "lassi (plain)",
+            "chaas",
+            "rabri",
+            "misal pav"
+        ]
+    },
+    "ledikeni": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "biryani",
+            "dal",
+            "curry",
+            "samosa",
+            "chana masala",
+            "palak paneer",
+            "chicken tikka",
+            "paratha",
+            "roti",
+            "rajma chawal"
+        ]
+    },
+    "litti_chokha": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "bread",
+            "curry",
+            "potato",
+            "chili",
+            "yogurt",
+            "snack",
+            "street food",
+            "thali",
+            "chaat",
+            "sabzi"
+        ]
+    },
+    "lyangcha": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "chicken",
+            "tandoori",
+            "naan",
+            "masala",
+            "roti",
+            "curry",
+            "dal",
+            "paratha",
+            "samosa",
+            "chana masala"
+        ]
+    },
+    "maach_jhol": {
+        "C": [
+            "Indian food",
+            "fish dish",
+            "curry",
+            "stew",
+            "soup"
+        ],
+        "F": [
+            "chicken jhol",
+            "mutton jhol",
+            "shrimps jhol",
+            "alu dum",
+            "chana masala",
+            "palak paneer",
+            "gobi matar",
+            "mishti doi",
+            "litti chokha",
+            "dal tadka"
+        ]
+    },
+    "makki_di_roti_sarson_da_saag": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "makki di roti",
+            "sarson da saag",
+            "curry",
+            "bread",
+            "greens",
+            "lentil",
+            "vegetable",
+            "flatbread",
+            "spinach",
+            "mustard greens"
+        ]
+    },
+    "malapua": {
+        "C": [
+            "Indian food",
+            "dish",
+            "dessert",
+            "snack",
+            "pastry"
+        ],
+        "F": [
+            "kheer",
+            "jalebi",
+            "gulab jamun",
+            "namak pare",
+            "pani puri",
+            "mathri",
+            "samosas",
+            "vada",
+            "kachori",
+            "poori"
+        ]
+    },
+    "misi_roti": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "flatbread",
+            "wheat",
+            "unleavened",
+            "fermented",
+            "porridge",
+            "chapati",
+            "paratha",
+            "poori",
+            "naan",
+            "parathwa"
+        ]
+    },
+    "misti_doi": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "yogurt-based",
+            "fermented"
+        ],
+        "F": [
+            "rasgulla",
+            "lassi",
+            "mishti dudh",
+            "kheer",
+            "payasam",
+            "kulfi",
+            "amritsari mawa",
+            "rabri",
+            "singhara",
+            "malai diyo"
+        ]
+    },
+    "modak": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "sweet"
+        ],
+        "F": [
+            "kheer",
+            "jalebi",
+            "laddu",
+            "rasgulla",
+            "gulab jamun",
+            "barfi",
+            "peda",
+            "namkeen",
+            "namami",
+            "shrikhand"
+        ]
+    },
+    "mysore_pak": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "confectionery",
+            "traditional"
+        ],
+        "F": [
+            "karjir paya",
+            "kheer",
+            "ladoo",
+            "barfi",
+            "gulab jamun",
+            "rasgulla",
+            "jalebi",
+            "namak pare",
+            "kalakand",
+            "karjir pitha"
+        ]
+    },
+    "naan": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "bread",
+            "curry",
+            "tandoori",
+            "chicken",
+            "vegetable",
+            "lamb",
+            "paratha",
+            "roti",
+            "chapati",
+            "samosa"
+        ]
+    },
+    "navrattan_korma": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "korma",
+            "curry",
+            "dal",
+            "rice",
+            "chicken",
+            "vegetables",
+            "yogurt",
+            "naan",
+            "paratha",
+            "samosa"
+        ]
+    },
+    "palak_paneer": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "spinach",
+            "paneer",
+            "curry",
+            "lentil",
+            "vegetable",
+            "tofu",
+            "masala",
+            "sauce",
+            "dal",
+            "sabzi"
+        ]
+    },
+    "paneer_butter_masala": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "paneer",
+            "chicken tikka masala",
+            "palak paneer",
+            "makhani paneer",
+            "chana masala",
+            "gobi malai",
+            "saag paneer",
+            "shahi paneer",
+            "dal tadka",
+            "naan"
+        ]
+    },
+    "phirni": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "milk-based",
+            "pudding"
+        ],
+        "F": [
+            "kheer",
+            "rabri",
+            "kulfi",
+            "payasam",
+            "shrikhand",
+            "rasgulla",
+            "gulab jamun",
+            "jalebi",
+            "barfi",
+            "laddu"
+        ]
+    },
+    "pithe": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "snack",
+            "sweet",
+            "pastry"
+        ],
+        "F": [
+            "jalebi",
+            "gulab jamun",
+            "barfi",
+            "kheer",
+            "rabri",
+            "namkeen",
+            "samosas",
+            "pakoras",
+            "vada",
+            "kulfi"
+        ]
+    },
+    "poha": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "vermicelli",
+            "noodles",
+            "upma",
+            "kesari",
+            "kheer",
+            "samosa",
+            "pakora",
+            "chana masala",
+            "palak paneer",
+            "gajar ka halwa"
+        ]
+    },
+    "poornalu": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "snack"
+        ],
+        "F": [
+            "dosa",
+            "vada",
+            "samosa",
+            "namakparatha",
+            "kachori",
+            "poori",
+            "chivda",
+            "sev",
+            "pani puri",
+            "chaat"
+        ]
+    },
+    "pootharekulu": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "snack"
+        ],
+        "F": [
+            "samosa",
+            "vada",
+            "pakoda",
+            "kachori",
+            "mathri",
+            "namak Pare",
+            "jalebi",
+            "laddu",
+            "upma",
+            "chana masala"
+        ]
+    },
+    "qubani_ka_meetha": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "pastry",
+            "confectionery"
+        ],
+        "F": [
+            "jalebi",
+            "gulab jamun",
+            "rabri",
+            "kheer",
+            "barfi",
+            "rasgulla",
+            "halwa",
+            "peda",
+            "jilabi",
+            "laddu"
+        ]
+    },
+    "rabri": {
+        "C": [
+            "Indian dessert",
+            "milk-based product",
+            "sweet",
+            "creamy",
+            "traditional"
+        ],
+        "F": [
+            "kheer",
+            "payasam",
+            "falooda",
+            "rabri",
+            "badam halwa",
+            "gajar ka halwa",
+            "shrikhand",
+            "kulfi",
+            "rasgulla",
+            "laddu"
+        ]
+    },
+    "ras_malai": {
+        "C": [
+            "Indian dessert",
+            "sweet",
+            "creamy",
+            "milk-based",
+            "cheese"
+        ],
+        "F": [
+            "kulfi",
+            "gulab jamun",
+            "rabri",
+            "jalebi",
+            "falooda",
+            "kheer",
+            "peda",
+            "badam halwa",
+            "rabri",
+            "malai kulfi"
+        ]
+    },
+    "rasgulla": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "snack",
+            "cheese"
+        ],
+        "F": [
+            "jalebi",
+            "gulab jamun",
+            "kheer",
+            "peda",
+            "malai kofta",
+            "rasabali",
+            "sandesh",
+            "rabri",
+            "laddu",
+            "kulfi"
+        ]
+    },
+    "sandesh": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "treat",
+            "snack"
+        ],
+        "F": [
+            "jalebi",
+            "gulab jamun",
+            "rabri",
+            "rasgulla",
+            "barfi",
+            "peda",
+            "kheer",
+            "laddu",
+            "namkeen",
+            "mishti doi"
+        ]
+    },
+    "shankarpali": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "litti",
+            "chokha",
+            "dabeli",
+            "pav bhaji",
+            "samosa",
+            "vada pav",
+            "chaat",
+            "bhel puri",
+            "kachori",
+            "misal pav"
+        ]
+    },
+    "sheer_korma": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "milk-based",
+            "sweet",
+            "beverage"
+        ],
+        "F": [
+            "kheer",
+            "payasam",
+            "lassi",
+            "rabri",
+            "falooda",
+            "badam milk",
+            "mango lassi",
+            "gulab jamun",
+            "ras malai",
+            "rabri"
+        ]
+    },
+    "sheera": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "staple"
+        ],
+        "F": [
+            "payasam",
+            "kheer",
+            "pudding",
+            "sweets",
+            "halwa",
+            "rasgulla",
+            "laddu",
+            "gulab jamun",
+            "jalebi",
+            "rabri"
+        ]
+    },
+    "shrikhand": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "yogurt-based",
+            "condiment"
+        ],
+        "F": [
+            "rasmalai",
+            "rabri",
+            "kheer",
+            "lassi",
+            "mishti doi",
+            "payasam",
+            "falooda",
+            "kulfi",
+            "jalebi",
+            "gulab jamun"
+        ]
+    },
+    "sohan_halwa": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "confectionery",
+            "pudding"
+        ],
+        "F": [
+            "karjir halwa",
+            "ras malai",
+            "kaju katli",
+            "gulab jamun",
+            "rabri",
+            "peda",
+            "barfi",
+            "jalebi",
+            "rasgulla",
+            "laddu"
+        ]
+    },
+    "sohan_papdi": {
+        "C": [
+            "Indian food",
+            "dessert",
+            "sweet",
+            "snack",
+            "festival food"
+        ],
+        "F": [
+            "jalebi",
+            "gulab jamun",
+            "barfi",
+            "laddu",
+            "rabri",
+            "kheer",
+            "rasgulla",
+            "peda",
+            "namkeen",
+            "samosa"
+        ]
+    },
+    "sutar_feni": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "beverage"
+        ],
+        "F": [
+            "lassi",
+            "chaas",
+            "buttermilk",
+            "thandai",
+            "jaljeera",
+            "panipuri",
+            "golgappa",
+            "pav bhaji",
+            "samosa",
+            "chana masala"
+        ]
+    },
+    "unni_appam": {
+        "C": [
+            "Indian food",
+            "dish",
+            "meal",
+            "cuisine",
+            "breakfast"
+        ],
+        "F": [
+            "appam",
+            "pancake",
+            "crepe",
+            "fritter",
+            "sweet",
+            "savoury",
+            "breakfast food",
+            "flatbread",
+            "vada",
+            "idli"
+        ]
+    }
+}
