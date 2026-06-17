@@ -48,6 +48,6 @@ This implementation is based on the information available in the LiteEmbed paper
    - `U_fine` spans the remaining principal components (PC2 ... PC_D).
 
 ### Current Limitations
-
+- The quality of the precomputed class neighborhoods has a significant impact on final performance. This implementation currently uses `Qwen/Qwen2.5-7B-Instruct` to generate coarse and fine-grained neighborhoods for each class. Different language models may produce substantially different neighborhood structures, which can affect classification accuracy and reproducibility. Performance may improve by using a stronger LLM or by more closely matching the neighborhood generation procedure used in the original paper.
 - The implementation currently reproduces strong results only on a **6-class subset** of the Indian Food Images dataset.
 - While the reported behavior of LiteEmbed can be observed on small-scale experiments, the current implementation **does not scale effectively to the full dataset**.
