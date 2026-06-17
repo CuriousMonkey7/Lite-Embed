@@ -18,9 +18,9 @@ SEED = 42
 LEARNING_RATE = 1e-4
 STEPS = 5000
 WARMUP_STEPS = 1000
-LAMBDA_1 = 1.0
-LAMBDA_2 = 1.0
-SIMILARITY_THRESHOLD = 0.25
+LAMBDA_1 = 0.5
+LAMBDA_2 = 0.5
+SIMILARITY_THRESHOLD = 0.7
 
 
 PCA_COARSE_K = 1
@@ -44,7 +44,7 @@ def prepare_dataset(data_dir, shots=4):
 
     exemplars = {}
     test_set = {}
-    print(classes)
+    # print(classes)
     # classes = ["ghevar", "malapua", "modak", "gavvalu", "kajjikaya",  "kachori"]
     # import sys;sys.exit()
     # classes = classes[55:60]
@@ -251,7 +251,7 @@ def optimize_single_class_embedding(
  
     star_token_id = clip.tokenize(["*"])[0][1] 
     placeholder_idx = (tokens_c[0] == star_token_id).nonzero(as_tuple=True)[0].item()
-    print("Placeholder Index: ", placeholder_idx)
+    # print("Placeholder Index: ", placeholder_idx)
 
     optimizer = torch.optim.Adam([e_c], lr=LEARNING_RATE)
     scheduler = torch.optim.lr_scheduler.LambdaLR(
