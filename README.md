@@ -39,7 +39,7 @@ This implementation is based on the information available in the LiteEmbed paper
    - λ₂ (Fine Loss) = 0.5
 
 2. **Fine-Grained Pruning**
-   - Candidate fine classes are selected using a hard cosine similarity threshold of **0.7** against image embeddings.
+   - Candidate fine classes are selected using a hard cosine similarity threshold of **0.25** against image embeddings.
    - If no candidates remain after thresholding, a **Top-5 fallback** strategy is used.
 
 3. **PCA Subspace Split**
