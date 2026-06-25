@@ -24,6 +24,7 @@ SIMILARITY_THRESHOLD = 0.25
 
 PCA_COARSE_K = 3
 
+PCA_COARSE_K = 3 #following fig5 of the paper
 def seed(SEED=42):
     torch.backends.cuda.matmul.allow_tf32 = False
     torch.backends.cudnn.allow_tf32 = False

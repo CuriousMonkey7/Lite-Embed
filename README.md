@@ -39,15 +39,13 @@ This implementation is based on the information available in the LiteEmbed paper
    - λ₂ (Fine Loss) = 0.5
 
 2. **Fine-Grained Pruning**
-   - Candidate fine classes are selected using a hard cosine similarity threshold of **0.7** against image embeddings.
+   - Candidate fine classes are selected using a hard cosine similarity threshold of **0.25** against image embeddings.
    - If no candidates remain after thresholding, a **Top-5 fallback** strategy is used.
 
 3. **PCA Subspace Split**
-   - `k = 2`
-   - `U_coarse` is defined as the first principal component (PC1).
-   - `U_fine` spans the remaining principal components (PC2 ... PC_D).
+   - `k = 4` (following fig5 of the paper)
 
 ### Current Limitations
-
+- The quality of the precomputed class neighborhoods has a significant impact on final performance. This implementation currently uses `Qwen/Qwen2.5-7B-Instruct` to generate coarse and fine-grained neighborhoods for each class. Performance may improve by using a stronger LLM or by more closely matching the neighborhood generation procedure used in the original paper.
 - The implementation currently reproduces strong results only on a **6-class subset** of the Indian Food Images dataset.
 - While the reported behavior of LiteEmbed can be observed on small-scale experiments, the current implementation **does not scale effectively to the full dataset**.
