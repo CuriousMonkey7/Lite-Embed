@@ -45,7 +45,7 @@ def prepare_dataset(data_dir, shots=4):
     exemplars = {}
     test_set = {}
     # print(classes)
-    classes = ["ghevar", "malapua", "modak", "gavvalu", "kajjikaya",  "kachori"]
+    # classes = ["ghevar", "malapua", "modak", "gavvalu", "kajjikaya",  "kachori"]
     # import sys;sys.exit()
     # classes = classes[55:60]
     for cls in classes:
@@ -394,7 +394,7 @@ if __name__ == "__main__":
 
     print(f"Baseline CLIP Zero-Shot Top-1 Accuracy: {baseline_acc:.2f}%")
     print(f"LiteEmbed 4-Shot Top-1 Accuracy: {top1_acc:.2f}%")
-    torch.save
+    # torch.save
     wandb.log({
         "eval/optimized_accuracy": top1_acc,
         "eval/accuracy_gain": top1_acc - baseline_acc
