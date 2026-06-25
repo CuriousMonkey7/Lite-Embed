@@ -8,7 +8,17 @@ wheels/
 
 # Virtual environments
 .venv
+.env
 indian-food-images-dataset.zip
 Indian Food Images Dataset/
 
-out.log
+
+wandb/
+
+temp.py
+rough.ipynb
+
+*.png
+*.log
+*.png
+*.jpg

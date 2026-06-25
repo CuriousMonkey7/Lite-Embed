@@ -41,7 +41,7 @@ echo "Output will be shown in the terminal and saved to out.log"
 echo "Started at: $(date)"
 echo
 
-python main.py 2>&1 | tee out.log
+WANDB_MODE=disabled python main.py 2>&1 | tee out.log
 
 echo
 echo "Finished at: $(date)"
